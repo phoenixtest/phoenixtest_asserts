@@ -1,7 +1,7 @@
 <?php
 return array (
     'name' => 'controllerDeny',
-    'category' => 'routes',
+    'category' => NULL,
     'parentId' => '939b1c08a8ce11e2829f90b11c05f0b9',
     'ancestorIds' => array(
         '939b199ea8ce11e2829f90b11c05f0b9',

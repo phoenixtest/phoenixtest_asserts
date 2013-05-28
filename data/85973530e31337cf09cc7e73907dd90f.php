@@ -9,6 +9,7 @@ return array (
         ),
         'application\\processors\\SetNotificationId',
         'application\\processors\\SetNotificationInfo',
+        'application\\processors\\SetUniqMessageId',
         'application\\processors\\SetUserSite',
         'application\\processors\\SetBrandInfo',
         array(

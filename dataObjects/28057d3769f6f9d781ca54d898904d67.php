@@ -1,7 +1,7 @@
 <?php
 return array (
     'name' => 'controllerRoutes',
-    'category' => 'routes',
+    'category' => NULL,
     'parentId' => NULL,
     'ancestorIds' => array(
     ),

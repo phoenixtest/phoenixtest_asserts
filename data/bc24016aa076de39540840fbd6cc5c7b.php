@@ -11,6 +11,7 @@ return array (
         'application\\processors\\SetNotificationInfo',
         'application\\processors\\SetUserSite',
         'application\\processors\\SetBrandInfo',
+        'application\\processors\\SetUniqMessageId',
         array(
             'name' => 'application\\processors\\SetTransportName',
             'params' => 'pushIos',

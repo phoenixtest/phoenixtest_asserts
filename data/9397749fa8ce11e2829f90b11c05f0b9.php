@@ -10,6 +10,8 @@ return array (
             'js' => array(
                 'js/models/User.js',
                 'js/views/UserView.js',
+                'js/models/Banner.js',
+                'js/views/BannerView.js',
             ),
             'messages' => array(
                 'user-template.js',
@@ -212,7 +214,9 @@ return array (
             ),
             'js' => array(
                 'js/models/Profile.js',
+                'js/models/Banner.js',
                 'js/views/ProfileView.js',
+                'js/views/BannerView.js',
             ),
             'js_templates' => array(
                 'ProfileTemplate.js',
