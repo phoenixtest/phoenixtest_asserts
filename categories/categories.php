@@ -1,7 +1,7 @@
 <?php
  return array (
   0 => 'Automatic Transfer Rules',
-  1 => 'autoreply1',
+  1 => 'autoreply',
   2 => 'AutoTransferSystem',
   3 => 'auto_transfers',
   4 => 'auto_transferss',
